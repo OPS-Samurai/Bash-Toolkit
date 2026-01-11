@@ -1,7 +1,7 @@
-# 🏗️ Bash-Toolkit Architecture
-> A collection of bash scripts and utilities.
-## 📂 Sub-Repositories
+# 🧬 Bash-Toolkit System Architecture
+> Overview of the system structure.
+## 📂 Component Registry
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
-| [📁 scripts](./scripts/) | Various bash scripts for common tasks. | Active |
-| [📁 docs](./docs/) | Project documentation and guides. | Active |
+| [📁 docs](./docs/) | Contains project documentation and related materials. | Active |
+| [📁 scripts](./scripts/) | Houses the core collection of Bash utility scripts. | Active |
