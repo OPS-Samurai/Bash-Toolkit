@@ -1,6 +1,11 @@
-# Bash-Toolkit
+# Bash-Toolkit Framework
 
-*This directory currently contains no executable scripts.*
+This repository serves as a centralized management hub for various automation modules.
+
+## Projekt-Struktur / Module
+| Modul | Kurzbeschreibung |
+| :--- | :--- |
+| **scripts** | Automated via Jarvis System (ISO-IEC 26514 Compliant) |
 
 ---
-> Automated via Jarvis System (ISO-IEC 26514 Compliant)
+> All systems are managed under ISO/IEC 26514 compliant documentation standards.
