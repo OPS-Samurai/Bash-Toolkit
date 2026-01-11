@@ -3,5 +3,5 @@
 ## 📂 Component Registry
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
-| [📁 scripts](./scripts/) | Collection of shell scripts for various utilities. | Active |
-| [📁 docs](./docs/) | Project documentation and guides. | Active |
+| [📁&nbsp;docs](./docs/) | Project documentation and guidelines. | Active |
+| [📁&nbsp;scripts](./scripts/) | Collection of utility Bash scripts. | Active |
