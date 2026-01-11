@@ -1,6 +1,6 @@
 # Bash-Toolkit Architecture
 
-This repository serves as a Linux-native automation hub, orchestrating server management and cross-platform shell utilities.
+This specialized framework orchestrates multiple automation modules for efficient infrastructure management.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
