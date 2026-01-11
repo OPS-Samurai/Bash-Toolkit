@@ -1,11 +1,11 @@
-# Bash-Toolkit Framework
+# Bash-Toolkit Architecture
 
-This repository serves as a centralized management hub for various automation modules. Each subdirectory contains specialized tools and its own technical documentation.
+This framework orchestrates multiple automation modules. Use the matrix below to navigate through the project documentation.
 
-## Projekt-Struktur / Module
-| Modul | Kurzbeschreibung | Dokumentation |
+| Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
-| **scripts** | Automated via Jarvis System (ISO-IEC 26514 Compliant) | [View Docs](./scripts/) |
+| [**scripts**](./scripts/) | Automated via Jarvis System (ISO-IEC 26514 Compliant) | Active |
+
 
 ---
 > All systems are managed under ISO/IEC 26514 compliant documentation standards.
