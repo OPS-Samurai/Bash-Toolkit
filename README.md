@@ -3,5 +3,5 @@
 ## 📂 Component Registry
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
-| [📁 docs](./docs/) | Contains project documentation and related materials. | Active |
-| [📁 scripts](./scripts/) | Houses the core collection of Bash utility scripts. | Active |
+| [📁 docs](./docs/) | Project documentation and guides. | Active |
+| [📁 scripts](./scripts/) | Collection of utility bash scripts. | Active |
