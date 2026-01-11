@@ -1,6 +1,6 @@
 # Bash-Toolkit Architecture
 
-This framework orchestrates multiple automation modules. Use the matrix below to navigate through the project documentation.
+This repository serves as a Linux-native automation hub, orchestrating server management and cross-platform shell utilities.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
