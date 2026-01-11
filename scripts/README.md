@@ -1,4 +1,4 @@
-# Bash-Toolkit
+# scripts
 
 *This directory currently contains no executable scripts.*
 
